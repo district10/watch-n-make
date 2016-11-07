@@ -11,5 +11,10 @@ $ make
 usage:
 
 ```bash
-java -jar watcher.jar
+$ java -jar watcher.jar
 ```
+
+mainly used when I write [blog](https://github.com/district10/blog) or
+taking [notes](https://github.com/district10/notes).
+
+;)
